@@ -1,0 +1,953 @@
+id,descricao,disponivel,user_id,created_at,updated_at
+,abatacepte 250 mg - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,abatacepte 125 mg/mL - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,abciximabe 2 mg/mL - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,acetato de betametasona + fosfato dissódico de betametasona 3 mg/mL + 3 mg/mL - suspensão injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,acetato de ciproterona 50 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,acetato de ciproterona 50 mg/mL - suspensão injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"acetato de desmopressina 0,1 mg - comprimido",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"acetato de desmopressina 0,2 mg  - comprimido",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,acetato de desmopressina 4 microgramas/mL - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,acetato de desmopressina 15 microgramas/mL - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"acetato de desmopressina 0,1 mg/mL - solução nasal",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,acetato de droxiprogesterona 150 mg/mL - suspensão injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,acetato de droxiprogesterona 10 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"acetato de ﬂudrocortisona 0,1 mg - comprimido",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,acetato de ﬂudrocortisona 60 mg - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,acetato de glatirâmer 20 mg - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,acetato de glatirâmer 40 mg - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"acetato de gosserrelina 3,6 mg - implante subcutâneo",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"acetato de gosserrelina 10,8 mg - implante subcutâneo",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,acetato de hidrocortisona 10 mg/g (1%) - creme,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,acetato de lanreotida 90 mg - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,acetato de lanreotida 120 mg - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"acetato de leuprorrelina 3,75 mg - pó para suspensão injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"acetato de leuprorrelina 11,25 mg - pó para suspensão injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,acetato de leuprorrelina 45 mg - pó para suspensão injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,acetato de octreotida 10 mg - pó para suspensão injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,acetato de octreotida 20 mg - pó para suspensão injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,acetato de octreotida 30 mg - pó para suspensão injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"acetato de octreotida 0,1 mg/mL - solução injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,acetato de sódio 2 mEq/mL - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,acetazolamida 250 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,aciclovir 50 mg/g (5%) - creme,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,aciclovir 200 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,aciclovir 250 mg - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,ácido acetilsalicílico 100 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,ácido acetilsalicílico 500 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,ácido araminossalicílico 4 g - granulado oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"ácido fólico 0,2 mg/mL - solução oral",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,ácido fólico 5 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,ácido folínico 15 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,ácido nicotínico 500 mg - comprimido de liberação prolongada,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,ácido salicílico 50 mg/g (5%) (FN) - pomada,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,ácido tranexâmico 250 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,ácido ursodesoxicólico 50 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,ácido ursodesoxicólico 150 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,ácido ursodesoxicólico 300 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,ácido valproico 250 mg - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,ácido valproico 250 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,ácido valproico 500 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,ácido valproico 50 mg/mL - solução oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,ácido valproico 50 mg/mL - xarope,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,ácido zoledrônico  5 mg/100 mL - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,acitretina 25 mg - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,acitretina 10 mg - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,adalimumabe 40 mg - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,aﬂibercepte 40 mg/mL  - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,água para injetáveis  - solução injetável 5 mL,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,água para injetáveis  - solução injetável 10 mL,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,água para injetáveis  - solução injetável 100 mL,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,água para injetáveis  - solução injetável 500 mL,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,agulha para caneta aplicadora de insulina - - -,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,albendazol 40 mg/mL - suspensão oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,albendazol 400 mg - comprimido mastigável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"albumina humana 0,2 g/mL (20%) - solução injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,alcachofra (Cynara scolymus L.) 24 a 48 mg de derivados de ácido cafeoilquínico expressos em ácido clorogênico (dose diária)  - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,alcachofra (Cynara scolymus L.) 24 a 48 mg de derivados de ácido cafeoilquínico expressos em ácido clorogênico (dose diária) - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,alcachofra (Cynara scolymus L.) 24 a 48 mg de derivados de ácido cafeoilquínico expressos emácido clorogênico (dose diária) - solução oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,alcachofra (Cynara scolymus L.) 24 a 48 mg de derivados de ácido cafeoilquínico expressos em ácido clorogênico (dose diária) - tintura,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,alcatrão mineral (FN) 10 mg/g (1%) - pomada,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,álcool etílico 70% (FN) - gel,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,álcool etílico 70% (FN) - solução,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,alendronato de sódio 70 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,alendronato de sódio 10 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,alentuzumabe 10 mg/mL - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,alfa-alglicosidade 50 mg - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"alfacalcidol 0,25 micrograma - cápsula mole",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,alfacalcidol 1 micrograma - cápsula mole,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,alfadornase 1 mg/mL - solução para inalação,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,alfaelosulfase  5 mg  - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,alfaepoetina 1.000 unidades internacionais - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,alfaepoetina 2.000 unidades internacionais - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,alfaepoetina 3.000 unidades internacionais - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,alfaepoetina 4.000 unidades internacionais - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,alfaepoetina 10.000 unidades internacionais - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,alfaepoetina 1.000 unidades internacionais - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,alfaepoetina 2.000 unidades internacionais - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,alfaepoetina 3.000 unidades internacionais - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,alfaepoetina 4.000 unidades internacionais - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,alfaepoetina 10.000 unidades internacionais - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,alfainterferona 2b 3.000.000 unidades internacionais - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,alfainterferona 2b 5.000.000 unidades internacionais - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,alfainterferona 2b 10.000.000 unidades internacionais - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,alfapeginterferona 2a 180 microgramas - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"alfapeginterferona 2b 118,4 microgramas (80 microgramas/0,5 mL após reconstituição) - pó para solução injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"alfapeginterferona 2b 148 microgramas (100 microgramas/0,5 mL após reconstituição) - pó para solução injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"alfapeginterferona 2b 177,6 microgramas (120 microgramas/0,5 mL após reconstituição) - pó para solução injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,alfaporactanto (surfactante pulmonar) 80 mg/mL - suspensão injetável intratecal ou intrabronquica solução injetável intratecal ou Intrabronquica,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,alfaporactanto (surfactante pulmonar) 25 mg/mL - suspensão injetável intratecal ou intrabronquica solução injetável intratecal ou Intrabronquica,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,alfataliglicerase    200 unidades - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,alfavelaglicerase 400 unidades - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,alfavestronidase 2 mg/mL - solução injetável ,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,alopurinol 100 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,alopurinol 300 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,alteplase 10 mg - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,alteplase 20 mg - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,alteplase 50 mg - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,ambrisentana 5 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,ambrisentana 10 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,amoxicilina 50 mg/mL - suspensão oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,amoxicilina 500 mg - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,amoxicilina 500 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"amoxicilina + clavulanato de potássio 50 mg/mL + 12,5 mg/mL - suspensão oral",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,amoxicilina + clavulanato de potássio 500 mg + 125 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,anfotericina B (complexo lipídico) 5 mg/mL - suspensão injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,anfotericina B (desoxicolato) 50 mg - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,anfotericina B (lipossomal) 50 mg - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,anlodipino 5 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,anlodipino 10 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,antimoniato de meglumina 300 mg/mL - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"aroeira (Schinus terebinthifolia raddi) 1,932 mg de ácido gálico (dose diária) - gel vaginal",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"aroeira (Schinus terebinthifolia raddi) 1,932 mg de ácido gálico (dose diária) - óvulo vaginal",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,arteméter + lumefantrina 20 mg + 120 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,artesunato 60 mg/mL - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,artesunato + cloridrato de meﬂoquina 25 mg + 55 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,artesunato + cloridrato de meﬂoquina 100 mg + 220 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,atenolol 100 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,atenolol 50 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,atorvastatina cálcica 10 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,atorvastatina cálcica 20 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,atorvastatina cálcica 40 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,atorvastatina cálcica 80 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,azatioprina 50 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,azitromicina 500 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,azitromicina 40 mg/mL - pó para suspensão oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,azitromicina 250 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,babosa (Aloe vera (L.) Burm. f.) 10%-70% gel fresco - creme,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,babosa (Aloe vera (L.) Burm. f.) 10&-70% gel fresco - gel,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,baricitinibe 2 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,baricitinibe 4 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,basiliximabe 20 mg - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,bedaquilina 100 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,benzilpenicilina benzatina 600.000 unidades internacionais - pó para suspensão injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,benzilpenicilina benzatina 600.000 unidades internacionais - suspensão injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,benzilpenicilina benzatina 1.200.000 unidades internacionais - pó para suspensão injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,benzilpenicilina benzatina 1.200.000 unidades internacionais - suspensão injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,benzilpenicilina potássica 5.000.000 unidades internacionais - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,benzilpenicilina procaína + benzilpenicilina potássica 300.000 unidades internacionais + 100.000 unidades internacionais - pó para suspensão injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,benznidazol 100 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"benznidazol 12,5 mg - comprimido",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,benzoilmetronidazol 40 mg/mL - suspensão oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,betainterferona 1a 22 microgramas (6.000.000 unidades Internacionais) - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,betainterferona 1a 30 microgramas (6.000.000 unidades Internacionais) - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,betainterferona 1a 44 microgramas (12.000.000 unidades internacionais) - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,betainterferona 1b 300 microgramas (9.600.000 unidades internacionais) - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,bezaﬁbrato 200 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,bezaﬁbrato 400 mg - comprimido de liberação prolongada,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"bicarbonato de sódio 1 mEq/mL (8,4%) - solução injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"bimatoprosta 0,3 mg/mL (0,03%) - solução oftálmica",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"biotina 2,5 mg - cápsula",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,bosentana 125 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"bosentana 62,5 mg - comprimido",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,brinzolamida 10 mg/mL - suspensão oftálmica,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"brometo de ipratrópio 0,25 mg/mL - solução para inalação",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,brometo de ipratrópio 20 microgramas/dose - solução para inalação oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,brometo de piridostigmina 60 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"brometo de tiotrópio monoidratado + cloridrato de olodaterol 2,5 mcg + 2,5 mcg  - solução para inalação",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,brometo de tiotrópio monoidratado + cloridrato de olodaterol  - ,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"brometo de umeclidínio + trifenatato de vilanterol 62,5 mcg + 25 mcg  - pó para inalação",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,brometo de umeclidínio + trifenatato de vilanterol  - ,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,bromidrato de fenoterol 100 microgramas/dose - solução aerossol,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,bromidrato de galantamina 8 mg - cápsula de liberação prolongada,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,bromidrato de galantamina 16 mg - cápsula de liberação prolongada,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,bromidrato de galantamina 24 mg - cápsula de liberação prolongada,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,budesonida 32 microgramas - suspensão para inalação nasal,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,budesonida 50 microgramas - suspensão para inalação nasal,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,budesonida 64 microgramas - suspensão para inalação nasal,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,budesonida 200 microgramas - aerossol bucal,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,budesonida 200 microgramas - cápsula para inalação,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,budesonida 200 microgramas - pó para inalação,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,budesonida 400 microgramas - cápsula para inalação,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,burosumabe 10 mg/mL - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,burosumabe 20 mg/mL - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,burosumabe 30 mg/mL - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"cabergolina 0,5 mg - comprimido",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"calcipotriol 50 microgramas/g (0,005%) - pomada",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,calcitonina 200 unidades internacionais/dose - solução spray nasal,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"calcitriol 0,25 micrograma - cápsula mole",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,caneta para aplicação de insulina,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,capreomicina 1 g - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,captopril 25 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,carbamazepina 200 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,carbamazepina 400 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,carbamazepina 20 mg/mL - suspensão oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,carbonato de cálcio 1.250 mg (500 mg de cálcio) - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,carbonato de cálcio + colecalciferol 1.250 mg (500 mg de cálcio) + 200 unidades internacionais - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,carbonato de cálcio + colecalciferol 1.250 mg (500 mg de cálcio) + 400 unidades internacionais - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,carbonato de cálcio + colecalciferol 1.500 mg (600 mg de cálcio) + 400 unidades internacionais - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,carbonato de lítio 300 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,carvão vegetal ativado  - pó para suspensão oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"carvedilol 3,125 mg - comprimido",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"carvedilol 6,25 mg - comprimido",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"carvedilol 12,5 mg - comprimido",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,carvedilol 25 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,Cáscara-sagrada (Rhamnus purshiana DC.) 20 a 30 mg de derivados hidroxiantracênicos expressos em cascarosídeo A (dose diária) - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,Cáscara-sagrada (Rhamnus purshiana DC.) 20 a 30 mg de derivados hidroxiantracênicos expressos em cascarosídeo A (dose diária) - tintura,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cefalexina 500 mg - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cefalexina 500 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cefalexina 50 mg/mL - suspensão oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cefotaxima sódica 500 mg - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,ceftriaxona 250 mg - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,ceftriaxona 1 g - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,ceftriaxona 500 mg - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,certolizumabe pegol 200 mg - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cetoconazol 20 mg/g (2%) - xampu,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cianocobalamina 1.000 microgramas - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,ciclofosfamida 50 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,ciclosporina 10 mg - cápsula mole,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,ciclosporina 25 mg - cápsula mole,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,ciclosporina 50 mg - cápsula mole,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,ciclosporina 100 mg - cápsula mole,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,ciclosporina 100 mg/mL - solução oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,ciclosporina 50 mg - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cinacalcete 30 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,ciproﬁbrato 100 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,ciproﬂoxacino 500 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,ciproﬂoxacino 250 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,citrato de dietilcarbamazina 50 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,citrato de sildenaﬁla 20 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,citrato de sildenaﬁla 25 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,citrato de sildenaﬁla 50 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,claritromicina 250 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,claritromicina 50 mg/mL - suspensão oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,claritromicina 500 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,claritromicina 500 mg - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,clobazam 10 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,clobazam 20 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,clofazimina 50 mg - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,clofazimina 100 mg - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,clofazimina 250 mg - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"clonazepam 2,5 mg/mL - solução oral",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,clopidogrel 75 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloranfenicol 250 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloranfenicol 25 mg/mL - suspensão oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"cloreto de potássio 2,56 mEq/mL (19,1%) - solução injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"cloreto de sódio 0,9% (0,154 mEq/mL) - solução injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"cloreto de sódio 3,4 mEq/mL (20%) - solução injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"cloreto de sódio 0,9% (9 mg/mL) - solução nasal",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de  60 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de amantadina 100 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de amiodarona 50 mg/mL - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de amiodarona 200 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de amitriptilina 25 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de amitriptilina 75 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de biperideno 4 mg - comprimido deliberação prolongada,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de biperideno 2 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"cloridrato de bupivacaína 2,5 mg/mL (0,25%) - solução injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"cloridrato de bupivacaína 5 mg/mL (0,50%) - solução injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de bupropiona 150 mg - comprimido de liberação prolongada,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de clindamicina 300 mg - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de clindamicina 150 mg - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de clomipramina 10 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de clomipramina 25 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de clorpromazina 5 mg/mL - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de clorpromazina 40 mg/mL - solução oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de clorpromazina 25 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de clorpromazina 100 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"cloridrato de dobutamina 12,5 mg/mL - solução injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de donepezila 5 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de donepezila 10 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de dopamina 5 mg/mL - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de dorzolamida 20 mg/mL - solução oftálmica,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de doxiciclina 100 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de etambutol 400 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de ﬂuoxetina 20 mg - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de ﬂuoxetina 20 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de hidralazina 25 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de hidralazina 50 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de hidroxocobalamina 5 g - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de lidocaína 10 mg/mL (1%) - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de lidocaína 20 mg/mL (2%) - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de lidocaína 20 mg/g (2%) - gel,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de lidocaína 100 mg/mL - solução spray,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"cloridrato de lidocaína + glicose 50 mg/mL + 75 mg/mL (5% + 7,5%) - solução injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de lidocaína + hemitartarato de epinefrina 2% + 1:200.000 - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de lidocaína + hemitartarato de epinefrina 2% + 1:80.000 - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de lidocaína + hemitartarato de epinefrina 1% + 1:200.000 - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de metadona 5 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de metadona 10 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de metadona 10 mg/mL - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de metformina 500 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de metformina 850 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de metoclopramida 10 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de metoclopramida 5 mg/mL - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de metoclopramida 4 mg/mL - solução oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de minociclina 100 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de moxiﬂoxacino 400 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"cloridrato de naloxona 0,4 mg/mL - solução injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de nortriptilina 10 mg - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de nortriptilina 25 mg - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de nortriptilina 50 mg - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de nortriptilina 75 mg - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de ondansetrona 4 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de ondansetrona 4 mg - comprimido orodispersível,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de ondansetrona 8 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de ondansetrona 8 mg - comprimido orodispersível,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de pilocarpina 20 mg/mL (2%) - solução oftálmica,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de piridoxina 40 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de piridoxina 100 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"cloridrato de prilocaína + felipressina 30 mg/mL (3%) + 0,03 unidades internacionais/mL - solução injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de prometazina 25 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de prometazina 25 mg/mL - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de propafenona 300 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de propafenona 150 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de propranolol 10 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de propranolol 40 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de protamina 10 mg/mL - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de raloxifeno 60 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de selegilina 5 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de sevelâmer 800 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de tetraciclina 500 mg - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de tetraciclina 10 mg/g (1%) - pomada oftálmica,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de tiamina 300 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"cloridrato de tiroﬁbana 0,25 mg/mL - solução injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de triexifenidil 5 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de verapamil 80 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"cloridrato de verapamil 2,5 mg/mL - solução injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,cloridrato de verapamil 120 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,clozapina 25 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,clozapina 100 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,complemento alimentar para paciente fenilcetonúrico maior de 1 ano (fórmula de aminoácidos isenta de fenilalanina)  - ,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,complemento alimentar para paciente fenilcetonúrico menor de 1 ano (fórmula de aminoácidos isenta de fenilalanina)  - ,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,Complexo protrombínico humano 500 unidades internacionais - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,Complexo protrombínico humano 600 unidades internacionais - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,complexo protrombínico parcialmente ativado 500 unidades - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,complexo protrombínico parcialmente ativado 1.000 unidades - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,complexo protrombínico parcialmente ativado 2.500 unidades - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,daclatasvir 60 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,daclatasvir 30 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,daclizumabe 5 mg/mL - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,danazol 100 mg - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,danazol 200 mg - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,dapagliﬂozina 10 mg  - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,dapsona 100 mg* - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,dapsona 50 mg* - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,darunavir 75 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,darunavir 150 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,darunavir 600 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,decanoato de haloperidol 50 mg/mL - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,deferasirox 125 mg - comprimido para suspensão,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,deferasirox 250 mg - comprimido para suspensão,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,deferasirox 500 mg - comprimido para suspensão,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,deferiprona 500 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,delamanida 50 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"dexametasona 1 mg/g (0,1%) - creme",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,dexametasona 4 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"dexametasona 0,1 mg/mL - elixir",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"dexametasona 1 mg/g (0,1%) - pomada oftálmica",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"dexametasona 1 mg/mL (0,1%) - suspensão oftálmica",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,dextrotartarato de brimonidina 2 mg/mL - solução oftálmica,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,diafragma 60 mm de diâmetro - ,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,diafragma 65 mm de diâmetro - ,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,diafragma 75 mm de diâmetro - ,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,diafragma 70 mm de diâmetro - ,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,diafragma 80 mm de diâmetro - ,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,diafragma 85 mm de diâmetro - ,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,diazepam 5 mg/mL - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,diazepam 5 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,diazepam 10 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"dicloridrato de pramipexol 0,125 mg - comprimido",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"dicloridrato de pramipexol 0,25 mg - comprimido",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,dicloridrato de pramipexol 1 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,dicloridrato de sapropterina 100 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,difosfato de cloroquina 150 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,difosfato de primaquina 15 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,difosfato de primaquina 5 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"digliconato de clorexidina 0,0012 - solução bucal",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,digliconato de clorexidina 2% a 4% - solução para uso tópico,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"digoxina 0,05 mg/mL - elixir",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"digoxina 0,25 mg - comprimido",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,dinitrato de isossorbida 5 mg - comprimido sublingual,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,dipirona 500 mg/mL - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,dipirona 500 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,dipirona 500 mg/mL - solução oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,dipropionato de beclometasona 50 microgramas/dose - solução para inalação oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,dipropionato de beclometasona 50 microgramas/dose - suspensão para inalação nasal,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,dipropionato de beclometasona 200 microgramas/dose - pó para inalação oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,dipropionato de beclometasona 200 microgramas/dose - solução para inalação oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,dipropionato de beclometasona 250 microgramas/dose - solução para inalação oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,dipropionato de beclometasona 200 microgramas/dose - cápsula para inalação oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,dipropionato de beclometasona 400 microgramas/dose - pó para inalação oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,dipropionato de beclometasona 400 microgramas/dose - cápsula para inalação oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,Dispositivo intrauterino plástico com cobre  - modelo T 380 mm2,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,dolutegravir sódico 50 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,doxiciclina 100 mg - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,doxiciclina 100 mg - comprimido solúvel,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,eculizumabe 10 mg/ml  - solução para diluição para infusão,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,efavirenz 600 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,efavirenz 200 mg - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,efavirenz 30 mg/mL - solução oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,elbasvir + grazoprevir monidratado 50 mg + 100 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,eltrombopague olamina 25 mg  - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,eltrombopague olamina 50 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"emicizumabe 60 mg/0,4 mL - solução injetável ",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,emicizumabe 30 mg/mL - solução injetável ,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"emicizumabe 105 mg/ 0,7 mL - solução injetável ",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,emicizumabe 150 mg/mL - solução injetável ,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,enantato de noretisterona + valerato de estradiol 50 mg/mL + 5 mg/mL - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,enfuvirtida 90 mg/mL - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"enoxaparina sódica 40 mg/0,4 mL - solução injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"enoxaparina sódica 60 mg/0,6 mL - solução injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,entacapona 200 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,entecavir 1 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"entecavir 0,5 mg - comprimido",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,epinefrina 1 mg/mL - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,espinheira-santa (Maytenus ilicifolia Mart. Ex Reissek) 60 a 90 mg taninos totais expressos em pirogalol (dose diária) - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,espinheira-santa (Maytenus ilicifolia Mart. Ex Reissek) 60 a 90 mg taninos totais expressos em pirogalol (dose diária) - tintura,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,espinheira-santa (Maytenus ilicifolia Mart. Ex Reissek) 60 a 90 mg taninos totais expressos em pirogalol (dose diária) - suspensão oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,espinheira-santa (Maytenus ilicifolia Mart. Ex Reissek) 60 a 90 mg taninos totais expressos em pirogalol (dose diária) - emulsão oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,espiramicina 1.500.000 unidades internacionais - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,espironolactona 100 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,espironolactona 25 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,estolato de eritromicina 25 mg/mL - suspensão oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,estolato de eritromicina 500 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,estolato de eritromicina 50 mg/mL - suspensão oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,estreptoquinase 250.000 unidades internacionais - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,estriol 1 mg/g - creme vaginal,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"estrogênios conjugados 0,625 mg/g - creme vaginal",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"estrogênios conjugados 0,3 mg - comprimido",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,etanercepte 25 mg - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,etanercepte 25 mg - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"etinilestradiol + levonorgestrel 0,03 mg + 0,15 mg - comprimido",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,etionamida 250 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,etoﬁbrato 500 mg - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,etossuximida 50 mg/mL - xarope,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,etravirina 100 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,etravirina 200 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"everolimo 0,5 mg - comprimido",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"everolimo 0,75 mg - comprimido",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,everolimo 1 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,fator IX de coagulação 200 unidades internacionais - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,fator IX de coagulação 250 unidades internacionais - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,fator IX de coagulação 500 unidades internacionais - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,fator IX de coagulação 600 unidades internacionais - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,fator IX de coagulação 1.000 unidades internacionais - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,fator IX de coagulação 1.200 unidades internacionais - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,fator VII de coagulação ativado recombinante 1 mg (50.000 unidades internacionais) - pó para solução  injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,fator VII de coagulação ativado recombinante 2 mg (100.000 unidades internacionais) - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,fator VII de coagulação ativado recombinante 5 mg (250.000 unidades internacionais) - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,fator VIII de coagulação contendo fator de von Willebrand 250 unidades internacionais - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,fator VIII de coagulação contendo fator de von Willebrand 500 unidades internacionais  - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,fator VIII de coagulação contendo fator de von Willebrand 1.000 unidades internacionais  - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,fator VIII de coagulação fator VIII de  1.000 unidades internacionais - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,fator VIII de coagulação fator VIII de  500 unidades internacionais - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,fator VIII de coagulação fator VIII de  250 unidades internacionais - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,fator VIII de coagulação recombinante 250 unidades internacionais - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,fator VIII de coagulação recombinante 500 unidades internacionais - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,fator VIII de coagulação recombinante 1.000 unidades internacionais - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,fator XIII de coagulação 250 unidades internacionais - pó para solução  injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,fenitoína 100 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,fenitoína 20 mg/mL - suspensão oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,fenitoína 50 mg/mL - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,fenobarbital 100 mg/mL - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,fenobarbital 100 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,fenobarbital 40 mg/mL - solução oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,fenoﬁbrato 250 mg - cápsula de liberação retardada,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,Fenoximetilpenicilina potássica 80.000 unidades internacionais/mL - pó para solução oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,ﬁbrinogênio 1 g - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,ﬁlgrastim 300 microgramas - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,ﬁnasterida 5 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"ﬁngolimode 0,5 mg - cápsula",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,ﬂucitosina  500 mg - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,ﬂucitosina  250 mg - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,ﬂuconazol 150 mg - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,ﬂuconazol 10 mg/mL - suspensão oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,ﬂuconazol 100 mg - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,ﬂuconazol 2 mg/mL - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"ﬂumazenil 0,1 mg/mL - solução injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,folinato de cálcio 15 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,fosamprenavir 50 mg/mL - suspensão oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"fosfato de cálcio tribásico + colecalciferol 1661,616 mg (600 mg de cálcio) +400 unidades internacionais - comprimido",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,fosfato de clindamicina 10 mg/g - solução tópica,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,fosfato de clindamicina 10 mg/g - gel,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,fosfato de codeína 3 mg/mL - solução oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,fosfato de codeína 60 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,fosfato de codeína 30 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,fosfato de codeína 30 mg/mL - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,fosfato de oseltamivir 30 mg - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,fosfato de oseltamivir 45 mg - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,fosfato de oseltamivir 75 mg - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"fosfato de potássio monobásico + fosfato de potássio dibásico 0,03 g/mL + 0,1567 g/mL - solução injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,fosfato dissódico de dexametasona 4 mg/mL - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,fosfato sódico de  1 mg/mL - solução oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,fumarato de dimetila 120 mg - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,fumarato de dimetila 240 mg - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,fumarato de formoterol 12 microgramas - cápsula para inalação,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,fumarato de formoterol 12 microgramas - pó para inalação,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,fumarato de formoterol + budesonida 6 microgramas + 200 microgramas - cápsula para inalação,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,fumarato de formoterol + budesonida 6 microgramas + 200 microgramas - pó para inalação,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,fumarato de formoterol + budesonida 12 microgramas + 400 microgramas - cápsula para inalação,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,fumarato de formoterol + budesonida 12 microgramas + 400 microgramas - pó para inalação,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,fumarato de tenofovir desoproxila 300 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,fumarato de tenofovir desoproxila + entricitabina 300 mg + 200 mg  - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,fumarato de tenofovir desoproxila + lamivudina  300 mg + 300 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,fumarato de tenofovir desoproxila + lamivudina + efavirenz 300 mg + 300 mg + 600 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,furosemida 10 mg/mL - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,furosemida 40 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,gabapentina 300 mg - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,gabapentina 400 mg - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,galsulfase  5 mg  - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,garra-do-diabo (Harpagophytum procumbens DC ex Meissn.) 30 a 100 mg de harpagosídeo ou 45 a 150 mg de iridoides totais expressos em harpagosídeos (dose diária) - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,garra-do-diabo (Harpagophytum procumbens DC ex Meissn.) 30 a 100 mg de harpagosídeo ou 45 a 150 mg de iridoides totais expressos em harpagosídeos (dose diária) - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,garra-do-diabo (Harpagophytum procumbens DC ex Meissn.) 30 a 100 mg de harpagosídeo ou 45 a 150 mg de iridoides totais expressos em harpagosídeos (dose diária) - comprimido de liberação retardada,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,gel lubriﬁcante  - gel,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,genﬁbrozila 900 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,genﬁbrozila 600 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,glecaprevir + pibrentasvir 100 mg + 40 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,glibenclamida 5 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,glicerol 72 mg - supositório retal,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,glicerol 120 mg/mL - solução retal,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,gliclazida 30 mg - comprimido de liberação prolongada comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,gliclazida 60 mg - de liberação prolongada,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,gliclazida 80 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,glicose 50 mg/mL (5%) - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,glicose 100 mg/mL (10%) - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,glicose 500 mg/mL (50%) - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"glutaral 0,02 - solução",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,golimumabe 50 mg - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"guaco (Mikania glomerata Spreng.) 0,5 a 5 mg de cumarina (dose diária) - tintura",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"guaco (Mikania glomerata Spreng.) 0,5 a 5 mg de cumarina (dose diária) - xarope",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"guaco (Mikania glomerata Spreng.) 0,5 a 5 mg de cumarina (dose diária) - solução oral",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,haloperidol 1 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,haloperidol 2 mg/mL - solução oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,haloperidol 5 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,haloperidol 5 mg/mL - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,hemifumarato de quetiapina 25 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,hemifumarato de quetiapina 100 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,hemifumarato de quetiapina 200 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,hemifumarato de quetiapina 300 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,hemifumarato de tenofovir alafenamida 25 mg  - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,hemitartarato de norepinefrina 2 mg/mL - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"heparina sódica 5.000 unidades internacionais/0,25 mL - solução injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"hidroclorotiazida 12,5 mg - comprimido",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,hidroclorotiazida 25 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,hidróxido de alumínio 300 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"hidróxido de alumínio 61,5 mg/mL - suspensão oral",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,hidróxido de alumínio 230 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,hidroxiureia 500 mg - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,hipoclorito de sódio 10 mg/mL (1%) - solução,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"hipoclorito de sódio 25 mg/mL (2,5%) - solução",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"hipromelose 5 mg/mL (0,5%) - solução oftálmica",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"hipromelose 3 mg/mL (0,3%) - solução oftálmica",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,hortelã (Mentha x piperita L.) 60 a 440 mg de mentol e 28 a 256 mg de mentona (dose diária) - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,ibuprofeno 200 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,ibuprofeno 600 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,ibuprofeno 300 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,ibuprofeno 50 mg/mL - suspensão oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,idursulfase 2 mg/mL - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,iloprosta 10 microgramas/mL - solução para nebulização,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,imiglucerase 400 unidades - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,imiquimode 50 mg/g - creme,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,imunoglobulina anti-Rho (D)  - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,imunoglobulina antitetânica 250 unidades internacionais/mL - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,imunoglobulina antitimócitos humanos (coelho) 25 mg - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"imunoglobulina humana 0,5 g - pó para solução injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,imunoglobulina humana 1 g - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"imunoglobulina humana 2,5 g - pó para solução injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,imunoglobulina humana 5 g - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"imunoglobulina humana 0,5 g - solução injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,imunoglobulina humana 1 g - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"imunoglobulina humana 2,5 g - solução injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,imunoglobulina humana 5 g - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,imunoglobulina humana anti-hepatite B 100 unidades internacionais - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,imunoglobulina humana anti-hepatite B 180 - 200 unidades internacionais/mL - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,imunoglobulina humana anti-hepatite B 500 unidades internacionais - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,imunoglobulina humana anti-hepatite B 600 unidades internacionais - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,imunoglobulina humana anti-hepatite B 1.000 unidades internacionais - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,imunoglobulina humana antirrábica 150 unidades internacionais/mL - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"imunoglobulina humana antivaricela zoster 125 unidades internacionais/ 2,5 mL - solução injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,inﬂiximabe 100 mg - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,insulina análoga de ação prolongada 100  unidades internacionais/mL  - solução injetável com sistema de aplicação,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,insulina análoga de ação prolongada 300 unidades internacionais/mL - solução injetável com sistema de aplicação,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,insulina análoga de ação rápida 100  unidades internacionais/mL - solução injetável com sistema de aplicação,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,insulina humana NPH 100 unidades internacionais/mL - suspensão injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,insulina humana regular 100 unidades internacionais/mL - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,iodo + iodeto de potássio 20 mg/mL + 40 mg/mL - solução para uso tópico,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,isetionato de pentamidina 300 mg - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,isoﬂavona-de-soja (Glycine max (L.) Merr.) 50 a 120 mg de isoﬂavonas (dose diária) - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,isoﬂavona-de-soja (Glycine max (L.) Merr.) 50 a 120 mg de isoﬂavonas (dose diária) - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,isoniazida 300 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,isoniazida 100 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,isotretinoína 10 mg - cápsula mole,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,isotretinoína 20 mg - cápsula mole,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,itraconazol 10 mg/mL - solução oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,itraconazol 100 mg - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,ivacaftor 150 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,ivermectina 6 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,lactato de biperideno 5 mg/mL - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,lactulose 667 mg/mL - xarope,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,lamivudina 10 mg/mL - solução oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,lamivudina 150 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,lamotrigina 25 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,lamotrigina 50 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,lamotrigina 100 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,lancetas para punção digital  - unidade,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"laronidase 0,58 mg/mL - solução injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"latanoprosta 0,05 mg/mL - solução oftálmica",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,ledipasvir + sofosbovir 90 mg + 100 mg  - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,leﬂunomida 20 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,levetiracetam 250 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,levetiracetam 500 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,levetiracetam 750 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,levetiracetam 1.000 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,levetiracetam 100 mg/ml - solução oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,levodopa + benserazida 100 mg + 25 mg - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,levodopa + benserazida 100 mg + 25 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,levodopa + benserazida 200 mg + 50 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,levodopa + carbidopa 200 mg + 50 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,levodopa + carbidopa 250 mg + 25 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,levoﬂoxacino 250 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,levoﬂoxacino 500 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"levonorgestrel 0,75 mg - comprimido",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"levonorgestrel 1,5 mg - comprimido",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"levotiroxina sódica  12,5 microgramas - comprimido",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,levotiroxina sódica  25 microgramas - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"levotiroxina sódica  37,5 microgramas - comprimido",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,levotiroxina sódica  50 microgramas - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,levotiroxina sódica  100 microgramas - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,linezolida 600 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,linezolida 2 mg/mL - solução para infusão,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,lopinavir + ritonavir 200 mg + 50 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,lopinavir + ritonavir 80 mg/mL + 20 mg/mL - solução oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,lopinavir + ritonavir 100 mg + 25 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,loratadina 10 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,loratadina 1 mg/mL - xarope,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,losartana potássica 50 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,maleato de dexclorfeniramina 2 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"maleato de dexclorfeniramina 0,4 mg/mL - solução oral",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"maleato de dexclorfeniramina 0,4 mg/mL - xarope",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,maleato de enalapril 5 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,maleato de enalapril 10 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,maleato de enalapril 20 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"maleato de timolol 2,5 mg/mL (0,25%) - solução oftálmica",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"maleato de timolol 5 mg/mL (0,5%) - solução oftálmica",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,maraviroque 150 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,medicamentos homeopáticos conforme Farmacopeia Homeopática Brasileira 3ª edição  - conforme Farmacopeia Homeopática Brasileira 3ª edição,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,memantina 10 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,mepolizumabe 100 mg/mL - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,mepolizumabe 100 mg/mL  - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,mesalazina 400 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,mesalazina 500 mg - comprimido de liberação prolongada,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,mesalazina 800 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,mesalazina 250 mg - supositório retal,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,mesalazina 500 mg - supositório retal,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,mesalazina 1.000 mg - supositório retal,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,mesalazina 10 mg/mL  - enema retal,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"mesilato de bromocriptina 2,5 mg - comprimido",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,mesilato de desferroxamina 500 mg - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,mesilato de doxazosina 2 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,mesilato de doxazosina 4 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,mesilato de pralidoxima 200 mg - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,mesilato de rasagilina 1 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,metildopa 250 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,metilprednisolona 500 mg - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,metotrexato 25 mg/mL - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"metotrexato 2,5 mg - comprimido",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,metronidazol 100 mg/g (10%) - gel vaginal,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,metronidazol 400 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,metronidazol 250 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,micofenolato de mofetila 500 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,micofenolato de sódio 180 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,micofenolato de sódio 360 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"micronutrientes cada sachê de 1 g contém: vitamina A 400 microgramas, vitamina D 5 microgramas, vitamina E 5 mg, vitamina C 30 mg, vitamina B1 0,5 mg, vitamina B2 0,5 mg, vitamina B6 0,5 mg, vitamina PP 6 mg, vitamina B9 150 microgramas, vitamina B12 0,9 microgramas, ferro 10 mg, zinco 4,1 mg, cobre 560 microgramas, selênio 17 microgramas, iodo 90 microgramas - pó",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,midazolam 2 mg/mL - solução oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,miglustate 100 mg - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,miltefosina 50 mg  - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,miltefosina 10 mg - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,misoprostol 25 microgramas - comprimido vaginal,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,misoprostol 200 microgramas - comprimido vaginal,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,misoprostol 10 mg - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,misoprostol 10 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,mononitrato de isossorbida 20 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,mononitrato de isossorbida 40 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,naproxeno 250 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,naproxeno 500 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,natalizumabe 20 mg/mL - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,nevirapina 200 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,nevirapina 10 mg/mL - suspensão oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,nicotina 7 mg - adesivo transdérmico,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,nicotina 14 mg - adesivo transdérmico,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,nicotina 21 mg - adesivo transdérmico,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,nicotina 2 mg - goma de mascar,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,nicotina 2 mg - pastilha,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,nistatina 100.000 unidades internacionais/mL - suspensão oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,nitrato de miconazol 2% (20 mg/g) - gel oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,nitrato de miconazol 2% (20 mg/g) - pó,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,nitrato de miconazol 2% (20 mg/g) - creme,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,nitrato de miconazol 2% (20 mg/g) - creme vaginal,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,nitrofurantoína 100 mg - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,nitrofurantoína 5 mg/mL - suspensão oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"noretisterona 0,35 mg - comprimido",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"nusinersena 2,4 mg/mL - solução injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,oﬂoxacino 400 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,olanzapina 10 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,olanzapina 5 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,óleo mineral  - óleo para uso oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,omalizumabe 150 mg  - solução injetável ,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,omalizumabe 100 microgramas/dose - aerossol oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"omeprazol 10 mg - cápsula
+",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,omeprazol 20 mg - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,oxamniquina 50 mg/mL - suspensão oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,palivizumabe 50 mg - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,palivizumabe 100 mg - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,palmitato de retinol 150.000 unidades internacionais/mL - solução oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,palmitato de retinol 100.000 unidades internacionais - cápsula mole,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,palmitato de retinol 200.000 unidades internacionais - cápsula mole,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,pamidronato dissódico 60 mg - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,pancreatina 10.000 unidades internacionais - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,pancreatina 25.000 unidades internacionais - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,paracetamol 200 mg/mL - solução oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,paracetamol 500 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,paricalcitol 5 microgramas/mL - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,pasta-d'água FN - pasta,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,penicilamina 250 mg - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,pentoxiﬁlina 400 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,permanganato de potássio 100 mg - comprimido para uso tópico,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,permanganato de potássio 100 mg (FN) - pó,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,permetrina 50 mg/g (5% ) - loção,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,permetrina 10 mg/g (1%) - loção,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"peróxido de benzoíla 25 mg/g (2,5%) (FN) - gel",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,peróxido de benzoíla 50 mg/g (5%) (FN) - gel,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,pirazinamida 500 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,pirazinamida 30 mg/mL (3%) - suspensão oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,pirazinamida 150 mg - comprimido dispersível,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,pirimetamina 25 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,plantago (Plantago ovata Forssk.) 3 a 30 g (dose diária) - pó para dispersão oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,podoﬁlina 100 mg/mL (10%) a 250 mg/mL (25%) (FN) - solução para uso tópico,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"podoﬁlotoxina 1,5 mg/g - creme ",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,pravastatina sódica 10 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,pravastatina sódica 20 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,pravastatina sódica 40 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,praziquantel 600 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,prednisolona 3 mg/mL - solução oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,prednisona 20 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,prednisona 5 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,preservativo feminino  - até 20 cm,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,preservativo masculino  - 160 mm x 49 mm,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,preservativo masculino  - 160 mm x 52 mm,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,primidona 100 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,primidona 250 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,propiltiouracila 100 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"propionato de clobetasol 0,5 mg/g - creme",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"propionato de clobetasol 0,5 mg/g - solução capilar",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,raltegravir potássico 100 mg - comprimido mastigável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,raltegravir potássico 400 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,ribavirina 250 mg - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,rifabutina 150 mg - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,rifampicina 300 mg - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,rifampicina 150 mg* - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,rifampicina + isoniazida 150 mg + 75 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,rifampicina + isoniazida 300 mg + 150 mg - comprimido ,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,rifampicina + isoniazida 75 mg + 50 mg  - comprimidos dispersíveis,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,rifampicina + isoniazida + pirazinamida 75 mg + 50 mg + 150 mg - comprimidos dispersíveis,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,rifampicina + isoniazida + pirazinamida + cloridrato de etambuto 150 mg + 75 mg + 400 mg + 275 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,rifapentina  150 mg  - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,riluzol 50 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"risanquizumabe  75 mg/ 0,83 mL  - solução injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,risedronato sódico 35 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,risperidona 1 mg/mL - solução oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,risperidona 1 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,risperidona 2 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,risperidona 3 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,ritonavir 100 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,rituximabe 10 mg/mL - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"rivastigmina 1,5 mg - cápsula",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,rivastigmina 3 mg - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"rivastigmina 4,5 mg - cápsula",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,rivastigmina 6 mg - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,rivastigmina 2 mg/mL - solução oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,rivastigmina 9 mg - adesivo transdérmico,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,rivastigmina 18 mg - adesivo transdérmico,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,sacarato de hidróxido férrico 20 mg/mL - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,sacubitril valsartana sódica hidratada 50 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,sacubitril valsartana sódica hidratada 100 mg  - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,sacubitril valsartana sódica hidratada 200 mg  - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"sais para reidratação oral cloreto de sódio, glicose anidra,cloreto de potássio, citrato de sódio diidratado - pó para solução oral",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,salgueiro (Salix alba L.) 60 a 240 mg de salicina (dose diária) - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,salgueiro (Salix alba L.) 60 a 240 mg de salicina (dose diária) - elixir,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,salgueiro (Salix alba L.) 60 a 240 mg de salicina (dose diária) - solução oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,secuquinumabe 150 mg/ml - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"selexipague 0,2 mg - comprimido",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"selexipague 0,4 mg  - comprimido",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"selexipague 0,6 mg - comprimido",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"selexipague 0,8 mg - comprimido",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,selexipague 1 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"selexipague 1,2 mg  - comprimido",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"selexipague 1,4 mg - comprimido",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"selexipague 1,6 mg  - comprimido",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,seringas com agulha acoplada para aplicação de insulina  - unidade,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,sinvastatina  20 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,sinvastatina  40 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,sinvastatina  10 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,sirolimo 1 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,sirolimo 2 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,sirolimo 1 mg/mL - solução oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,sofosbuvir 400 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,sofosbuvir + velpatasvir  400 mg + 100 mg  - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"solução ringer + lactato lactato de sódio 3 mg/mL + cloreto de sódio 6 mg/mL + cloreto de potássio 0,3 mg/mL + cloreto de cálcio 0,2 mg/mL - solução injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,somatropina 4 unidades internacionais - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,somatropina 12 unidades internacionais - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,somatropina 15 unidades internacionais - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,somatropina 16 unidades internacionais - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,somatropina 24 unidades internacionais - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,somatropina 30 unidades internacionais - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,somatropina 4 unidades internacionais - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,somatropina 12 unidades internacionais - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,somatropina 15 unidades internacionais - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,somatropina 16 unidades internacionais - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,somatropina 18 unidades internacionais - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,somatropina 30 unidades internacionais - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"soro antiaracnídico (Loxosceles, Phoneutria e Tityus) cada mL contém imunoglobulinas que neutralizam, no mínimo, 1,5 Dose Mínima Mortal (DMN) de veneno de Tityus serrulatus (1,5 DMM/mL), 1,5 DMM de veneno de Phoneutria nigriventer (1,5 DMM/mL) e 15 DMN (Dose Mínima Necrosante) de veneno de Loxosceles gaucho (15 DMN/mL) - solução injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"soro antibotrópico (pentavalente) e anticrotálico cada mL contém Imunoglobulinas (IgG) que neutralizam, no mínimo, 5 mg de veneno de Bothrops jararaca e a 1,5 mg de veneno de Crotalus durissus terrifcus (5 mg/mL e 1,5 mg/mL) - solução injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"soro antibotrópico (pentavalente) e antilaquético cada mL contém imunoglobulinas que neutralizam, no mínimo, 5 mg de veneno de Bothrops jararacae 3 mg de veneno de Lachesis muta (5mg/mL e 3 mg/mL) - solução injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"soro antibotulínico AB (bivalente) cada mL contém imunoglobulinas que neutralizam, no mínimo, 375 unidades internacionais de toxina butolínica tipo A e 275 unidades internacionais de toxina butolínica tipo B (375 unidades internacionais/mL e 275 unidades internacionais/mL) - solução injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"soro anticrotálico cada mL contém imunoglobulinas que neutralizam, no mínimo, 1,5 mg de veneno Crotalus durissus terrifcus (1,5 mg/mL) - solução injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"soro antidiftérico cada mL contém imunoglobulinas que neutralizam, no mínimo, 1.000 unidades internacionais de toxina diftérica  - solução injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"soro antielapídico (bivalente) cada mL contém imunoglobulinas que neutralizam, no mínimo, 1,5 mg de veneno de Micrurus frontalis (1,5 mg/mL) - solução injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"soro antiescorpiônico cada mL contém imunoglobulinas que neutralizam, no mínimo 1,5 DMM (Dose Mínima Mortal) de veneno de Tityus serrulatus (1,5 DMM/mL) - solução injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"soro antilonômico cada mL contém imunoglobulinas que neutralizam, no mínimo, 0,35 mg de veneno de Lonomia obliqua (0,35 mg/mL) - solução injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"soro antiloxoscélico (trivalente) cada mL contém imunoglobulinas que neutralizam, no mínimo, 15 DMN (Dose Mínima Necrosante) de veneno de aranhas das espécies Loxosceles laeta, Loxosceles gaucho e Loxosceles intermedia (15 DMN/mL) - solução injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"soro antirrábico cada mL contém imonoglobulinas que neutralizam, no mínimo, 200 unidades internacionais de vírus da raiva (200 unidades internacionais/mL)  - solução injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"soro antitetânico cada mL contém imunoglobulinas que neutralizam, no mínimo, 1.000 unidades internacionais de toxina tetânica - solução injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,succinato de metoprolol 25 mg - comprimido de liberação prolongada,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,succinato de metoprolol 50 mg - comprimido de liberação prolongada,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,succinato de metoprolol 100 mg - comprimido de liberação prolongada,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,succinato de tafenoquina 150 mg  - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,succinato sódico de hidrocortisona 100 mg - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,succinato sódico de hidrocortisona 500 mg - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,sulfadiazina 500 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,sulfadiazina de prata 10 mg/g (1%) - creme,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,sulfametoxazol + trimetoprima 40 mg/mL + 8 mg/mL - suspensão oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,sulfametoxazol + trimetoprima 80 mg/mL + 16 mg/mL - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,sulfametoxazol + trimetoprima 400 mg + 80 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,sulfassalazina 500 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,sulfato de abacavir 20 mg/mL - solução oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,sulfato de abacavir 300 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,sulfato de amicacina 250 mg/mL - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,sulfato de atazanavir 300 mg - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"sulfato de atropina 0,25 mg/mL - solução injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,sulfato de estreptomicina 1 g - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,sulfato de gentamicina 5 mg/g - pomada oftálmica,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,sulfato de gentamicina 5 mg/mL - solução oftálmica,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,sulfato de hidroxicloroquina 400 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,sulfato de magnésio  - pó para solução oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"sulfato de magnésio 10% (0,81 mEq/mL Mg++) - solução injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"sulfato de magnésio 50% (4,05 mEq/mL Mg++) - solução injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,sulfato de morﬁna 10 mg/mL - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,sulfato de morﬁna 10 mg/mL - solução oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,sulfato de morﬁna 10 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,sulfato de morﬁna 30 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,sulfato de morﬁna 30 mg - cápsula de liberação prolongada,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,sulfato de morﬁna 60 mg - cápsula de liberação prolongada,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,sulfato de morﬁna 100 mg - cápsula de liberação prolongada,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"sulfato de polimixina B + sulfato de neomicina + ﬂuocinolona acetonida + cloridrato de lidocaína 10.000 ui/ml + 3,500 mg/ml + 0,250 mg/ml + 20 mg/ml - solução otológica",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,sulfato de salbutamol 5 mg/mL - solução para inalação,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"sulfato de salbutamol 0,5 mg/mL - solução injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,sulfato de zinco 200 microgramas/mL - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,sulfato de zinco 10 mg - comprimido mastigável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,sulfato de zinco 4 mg/mL - xarope,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,sulfato ferroso 5 mg/mL (Ferro elementar) - xarope,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,sulfato ferroso 25 mg/mL (Ferro elementar) - solução oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,sulfato ferroso 40 mg (Ferro elementar) - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,tacrolimo 1 mg - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,tacrolimo 5 mg - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,tacrolimo 5 mg/mL - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,tafamidis 20 mg - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,talidomida 100 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,tartarato de metoprolol 100 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,teclozana 500 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,teclozana 10 mg/mL - suspensão oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,tenecteplase 30 mg - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,tenecteplase 40 mg - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,tenecteplase 50 mg - pó para solução  injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,teriﬂunomida 14 mg  - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,terizidona 250 mg - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,tiamazol  10 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,tiamazol  5 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,tipranavir 250 mg - cápsula mole,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,tipranavir 100 mg/mL - solução oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,tiras reagentes de medida de glicemia capilar  - unidade,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,tobramicina  300 mg - solução inalatória,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,tocilizumabe 20 mg/mL - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,tofacitinibe 5 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,topiramato 25 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,topiramato 50 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,topiramato 100 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,toxina botulínica A 100 unidades - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,toxina botulínica A 500 unidades - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"travoprosta 0,04 mg/mL - solução oftálmica",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,trientina 250 mg - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"triptorrelina 3,75 mg - pó para suspensão ",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"triptorrelina 11,25 mg - injetávelpó para suspensão injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"unha-de-gato (Uncaria tomentosa (Willd. ex Roem. & Schult.)) 0,9 mg de alcaloides oxindólicos pentaclíclicos - cápsula",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"unha-de-gato (Uncaria tomentosa (Willd. ex Roem. & Schult.)) 0,9 mg de alcaloides oxindólicos pentaclíclicos - comprimido",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"unha-de-gato (Uncaria tomentosa (Willd. ex Roem. & Schult.)) 0,9 mg de alcaloides oxindólicos pentaclíclicos - gel",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,upadacitinibe  15 mg  - comprimido revestido de liberação prolongada,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,ustequinumabe 45 mg - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,vacina adsorvida difteria e tétano adulto  - suspensão injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,vacina adsorvida difteria e tétano infantil  - suspensão injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"vacina adsorvida difteria, tétano e pertussis  - suspensão injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"vacina adsorvida difteria, tétano e pertussis (acelular) adulto  - suspensão injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"vacina adsorvida difteria, tétano e pertussis (acelular) infantil  - suspensão injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"vacina adsorvida difteria, tétano, pertussis, hepatite B (recombinante) e Haemophilus inﬂuenzae B (conjugada)  - suspensão injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,vacina adsorvida hepatite A (inativada) adulto  - suspensão injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,vacina adsorvida hepatite A (inativada) infantil  - suspensão injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,vacina BCG  - pó para suspensão injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,vacina cólera (inativada)  - suspensão oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,vacina febre amarela (atenuada)  - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,vacina febre tifoide (polissacarídica)  - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,vacina Haemophilus inﬂuenzae B (conjugada)  - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,vacina hepatite B (recombinante)  - suspensão injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"vacina inﬂuenza trivalente (fragmentada, inativada)  - suspensão injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,vacina meningocócica ACWY (conjugada)  - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,vacina meningocócica C (conjugada)  - pó para suspensão injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"vacina papilomavírus humano 6, 11, 16 e 18 (recombinante)  - suspensão injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,vacina pneumocócica 10-valente (conjugada)  - suspensão injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,vacina pneumocócica 13-valente (conjugada)  - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,vacina pneumocócica 23-valente (polissacarídica)  - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,vacina poliomielite 1 e 3 (atenuada)  - solução oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"vacina poliomielite 1, 2 e 3 (inativada)  - solução injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,vacina raiva (inativada)  - pó para suspensão injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,vacina rotavírus humano G1P [8] (atenuada)  - suspensão oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"vacina sarampo, caxumba, rubéola  - pó para solução injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,"vacina sarampo, caxumba, rubéola e varicela (atenuada)  - pó para solução injetável",1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,vacina varicela (atenuada)  - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,valproato de sódio 250 mg - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,valproato de sódio 250 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,valproato de sódio 50 mg/mL - xarope,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,valproato de sódio 50 mg/mL - solução oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,valproato de sódio 500 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,varfarina sódica 1 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,varfarina sódica 5 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,vedolizumabe  300 mg  - pó para solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,vigabatrina 500 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,xinafoato de salmeterol 50 microgramas - pó para inalação,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,zanamivir 5 mg - pó para inalação oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,zidovudina 100 mg - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,zidovudina 10 mg/mL - solução injetável,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,zidovudina 10 mg/mL - solução oral,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,zidovudina + lamivudina 300 mg + 150 mg - comprimido,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,ziprasidona 80 mg - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00
+,ziprasidona 40 mg - cápsula,1,1,2023-08-22 08:00:00,2023-08-22 08:00:00

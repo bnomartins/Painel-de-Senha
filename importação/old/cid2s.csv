@@ -1,0 +1,364 @@
+id,cid,procedimento,descricao,user_id,diponivel,created_at,updated_at
+,E140,03.05.01.002-6,Diabetes Mellitus não especificado - com coma,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E140,03.05.01.010-7,Diabetes Mellitus não especificado - com coma,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E140,03.05.01.011-5,Diabetes Mellitus não especificado - com coma,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E140,03.05.01.016-6,Diabetes Mellitus não especificado - com coma,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E140,03.05.01.018-2,Diabetes Mellitus não especificado - com coma,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E140,04.18.01.001-3,Diabetes Mellitus não especificado - com coma,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E140,04.18.01.002-1,Diabetes Mellitus não especificado - com coma,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E140,04.18.01.003-0,Diabetes Mellitus não especificado - com coma,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E140,04.18.01.004-8,Diabetes Mellitus não especificado - com coma,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E140,04.18.01.008-0,Diabetes Mellitus não especificado - com coma,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E140,04.18.02.001-9,Diabetes Mellitus não especificado - com coma,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E140,04.18.02.002-7,Diabetes Mellitus não especificado - com coma,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E141,03.05.01.002-6,Diabetes Mellitus não especificado - com cetoacidose,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E141,03.05.01.010-7,Diabetes Mellitus não especificado - com cetoacidose,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E141,03.05.01.011-5,Diabetes Mellitus não especificado - com cetoacidose,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E141,03.05.01.016-6,Diabetes Mellitus não especificado - com cetoacidose,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E141,03.05.01.018-2,Diabetes Mellitus não especificado - com cetoacidose,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E141,04.18.01.001-3,Diabetes Mellitus não especificado - com cetoacidose,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E141,04.18.01.002-1,Diabetes Mellitus não especificado - com cetoacidose,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E141,04.18.01.003-0,Diabetes Mellitus não especificado - com cetoacidose,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E141,04.18.01.004-8,Diabetes Mellitus não especificado - com cetoacidose,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E141,04.18.01.008-0,Diabetes Mellitus não especificado - com cetoacidose,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E141,04.18.02.001-9,Diabetes Mellitus não especificado - com cetoacidose,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E141,04.18.02.002-7,Diabetes Mellitus não especificado - com cetoacidose,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E142,03.05.01.002-6,Diabetes Mellitus não especificado - com complicações renais,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E142,03.05.01.010-7,Diabetes Mellitus não especificado - com complicações renais,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E142,03.05.01.011-5,Diabetes Mellitus não especificado - com complicações renais,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E142,03.05.01.016-6,Diabetes Mellitus não especificado - com complicações renais,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E142,03.05.01.018-2,Diabetes Mellitus não especificado - com complicações renais,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E142,04.18.01.001-3,Diabetes Mellitus não especificado - com complicações renais,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E142,04.18.01.002-1,Diabetes Mellitus não especificado - com complicações renais,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E142,04.18.01.003-0,Diabetes Mellitus não especificado - com complicações renais,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E142,04.18.01.004-8,Diabetes Mellitus não especificado - com complicações renais,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E142,04.18.01.008-0,Diabetes Mellitus não especificado - com complicações renais,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E142,04.18.02.001-9,Diabetes Mellitus não especificado - com complicações renais,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E142,04.18.02.002-7,Diabetes Mellitus não especificado - com complicações renais,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E143,03.05.01.002-6,Diabetes Mellitus não especificado - com complicações oftálmicas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E143,03.05.01.010-7,Diabetes Mellitus não especificado - com complicações oftálmicas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E143,03.05.01.011-5,Diabetes Mellitus não especificado - com complicações oftálmicas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E143,03.05.01.016-6,Diabetes Mellitus não especificado - com complicações oftálmicas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E143,03.05.01.018-2,Diabetes Mellitus não especificado - com complicações oftálmicas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E143,04.18.01.001-3,Diabetes Mellitus não especificado - com complicações oftálmicas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E143,04.18.01.002-1,Diabetes Mellitus não especificado - com complicações oftálmicas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E143,04.18.01.003-0,Diabetes Mellitus não especificado - com complicações oftálmicas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E143,04.18.01.004-8,Diabetes Mellitus não especificado - com complicações oftálmicas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E143,04.18.01.008-0,Diabetes Mellitus não especificado - com complicações oftálmicas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E143,04.18.02.001-9,Diabetes Mellitus não especificado - com complicações oftálmicas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E143,04.18.02.002-7,Diabetes Mellitus não especificado - com complicações oftálmicas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E144,03.05.01.002-6,Diabetes Mellitus não especificado - com complicações neurológicas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E144,03.05.01.010-7,Diabetes Mellitus não especificado - com complicações neurológicas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E144,03.05.01.011-5,Diabetes Mellitus não especificado - com complicações neurológicas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E144,03.05.01.016-6,Diabetes Mellitus não especificado - com complicações neurológicas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E144,03.05.01.018-2,Diabetes Mellitus não especificado - com complicações neurológicas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E144,04.18.01.001-3,Diabetes Mellitus não especificado - com complicações neurológicas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E144,04.18.01.002-1,Diabetes Mellitus não especificado - com complicações neurológicas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E144,04.18.01.003-0,Diabetes Mellitus não especificado - com complicações neurológicas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E144,04.18.01.004-8,Diabetes Mellitus não especificado - com complicações neurológicas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E144,04.18.01.008-0,Diabetes Mellitus não especificado - com complicações neurológicas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E144,04.18.02.001-9,Diabetes Mellitus não especificado - com complicações neurológicas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E144,04.18.02.002-7,Diabetes Mellitus não especificado - com complicações neurológicas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E145,03.05.01.002-6,Diabetes Mellitus não especificado - com complicações circulatórias periféricas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E145,03.05.01.010-7,Diabetes Mellitus não especificado - com complicações circulatórias periféricas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E145,03.05.01.011-5,Diabetes Mellitus não especificado - com complicações circulatórias periféricas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E145,03.05.01.016-6,Diabetes Mellitus não especificado - com complicações circulatórias periféricas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E145,03.05.01.018-2,Diabetes Mellitus não especificado - com complicações circulatórias periféricas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E145,04.18.01.001-3,Diabetes Mellitus não especificado - com complicações circulatórias periféricas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E145,04.18.01.002-1,Diabetes Mellitus não especificado - com complicações circulatórias periféricas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E145,04.18.01.003-0,Diabetes Mellitus não especificado - com complicações circulatórias periféricas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E145,04.18.01.004-8,Diabetes Mellitus não especificado - com complicações circulatórias periféricas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E145,04.18.01.008-0,Diabetes Mellitus não especificado - com complicações circulatórias periféricas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E145,04.18.02.001-9,Diabetes Mellitus não especificado - com complicações circulatórias periféricas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E145,04.18.02.002-7,Diabetes Mellitus não especificado - com complicações circulatórias periféricas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E146,03.05.01.002-6,Diabetes Mellitus não especificado - com outras complicações especificadas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E146,03.05.01.010-7,Diabetes Mellitus não especificado - com outras complicações especificadas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E146,03.05.01.011-5,Diabetes Mellitus não especificado - com outras complicações especificadas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E146,03.05.01.016-6,Diabetes Mellitus não especificado - com outras complicações especificadas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E146,03.05.01.018-2,Diabetes Mellitus não especificado - com outras complicações especificadas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E146,04.18.01.001-3,Diabetes Mellitus não especificado - com outras complicações especificadas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E146,04.18.01.002-1,Diabetes Mellitus não especificado - com outras complicações especificadas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E146,04.18.01.003-0,Diabetes Mellitus não especificado - com outras complicações especificadas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E146,04.18.01.004-8,Diabetes Mellitus não especificado - com outras complicações especificadas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E146,04.18.01.008-0,Diabetes Mellitus não especificado - com outras complicações especificadas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E146,04.18.02.001-9,Diabetes Mellitus não especificado - com outras complicações especificadas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E146,04.18.02.002-7,Diabetes Mellitus não especificado - com outras complicações especificadas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E147,03.05.01.002-6,Diabetes Mellitus não especificado - com complicações múltiplas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E147,03.05.01.010-7,Diabetes Mellitus não especificado - com complicações múltiplas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E147,03.05.01.011-5,Diabetes Mellitus não especificado - com complicações múltiplas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E147,03.05.01.016-6,Diabetes Mellitus não especificado - com complicações múltiplas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E147,03.05.01.018-2,Diabetes Mellitus não especificado - com complicações múltiplas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E147,04.18.01.001-3,Diabetes Mellitus não especificado - com complicações múltiplas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E147,04.18.01.002-1,Diabetes Mellitus não especificado - com complicações múltiplas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E147,04.18.01.003-0,Diabetes Mellitus não especificado - com complicações múltiplas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E147,04.18.01.004-8,Diabetes Mellitus não especificado - com complicações múltiplas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E147,04.18.01.008-0,Diabetes Mellitus não especificado - com complicações múltiplas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E147,04.18.02.001-9,Diabetes Mellitus não especificado - com complicações múltiplas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E147,04.18.02.002-7,Diabetes Mellitus não especificado - com complicações múltiplas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E148,03.05.01.002-6,Diabetes Mellitus não especificado - com complicações não especificadas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E148,03.05.01.010-7,Diabetes Mellitus não especificado - com complicações não especificadas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E148,03.05.01.011-5,Diabetes Mellitus não especificado - com complicações não especificadas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E148,03.05.01.016-6,Diabetes Mellitus não especificado - com complicações não especificadas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E148,03.05.01.018-2,Diabetes Mellitus não especificado - com complicações não especificadas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E148,04.18.01.001-3,Diabetes Mellitus não especificado - com complicações não especificadas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E148,04.18.01.002-1,Diabetes Mellitus não especificado - com complicações não especificadas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E148,04.18.01.003-0,Diabetes Mellitus não especificado - com complicações não especificadas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E148,04.18.01.004-8,Diabetes Mellitus não especificado - com complicações não especificadas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E148,04.18.01.008-0,Diabetes Mellitus não especificado - com complicações não especificadas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E148,04.18.02.001-9,Diabetes Mellitus não especificado - com complicações não especificadas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E148,04.18.02.002-7,Diabetes Mellitus não especificado - com complicações não especificadas,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E149,03.05.01.002-6,Diabetes Mellitus não especificado - sem complicações,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E149,03.05.01.010-7,Diabetes Mellitus não especificado - sem complicações,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E149,03.05.01.011-5,Diabetes Mellitus não especificado - sem complicações,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E149,03.05.01.016-6,Diabetes Mellitus não especificado - sem complicações,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E149,03.05.01.018-2,Diabetes Mellitus não especificado - sem complicações,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E149,04.18.01.001-3,Diabetes Mellitus não especificado - sem complicações,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E149,04.18.01.002-1,Diabetes Mellitus não especificado - sem complicações,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E149,04.18.01.003-0,Diabetes Mellitus não especificado - sem complicações,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E149,04.18.01.004-8,Diabetes Mellitus não especificado - sem complicações,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E149,04.18.01.008-0,Diabetes Mellitus não especificado - sem complicações,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E149,04.18.02.001-9,Diabetes Mellitus não especificado - sem complicações,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,E149,04.18.02.002-7,Diabetes Mellitus não especificado - sem complicações,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,I10 ,03.05.01.002-6,I10 - Hipertensão essencial (primária),1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,I10 ,03.05.01.010-7,I10 - Hipertensão essencial (primária),1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,I10 ,03.05.01.011-5,I10 - Hipertensão essencial (primária),1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,I10 ,03.05.01.016-6,I10 - Hipertensão essencial (primária),1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,I10 ,03.05.01.018-2,I10 - Hipertensão essencial (primária),1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,I10 ,04.18.01.001-3,I10 - Hipertensão essencial (primária),1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,I10 ,04.18.01.002-1,I10 - Hipertensão essencial (primária),1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,I10 ,04.18.01.003-0,I10 - Hipertensão essencial (primária),1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,I10 ,04.18.01.004-8,I10 - Hipertensão essencial (primária),1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,I10 ,04.18.01.008-0,I10 - Hipertensão essencial (primária),1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,I10 ,04.18.02.001-9,I10 - Hipertensão essencial (primária),1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,I10 ,04.18.02.002-7,I10 - Hipertensão essencial (primária),1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N030,03.05.01.002-6,Síndrome nefrítica crônica - anormalidade glomerular minor,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N030,03.05.01.010-7,Síndrome nefrítica crônica - anormalidade glomerular minor,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N030,03.05.01.011-5,Síndrome nefrítica crônica - anormalidade glomerular minor,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N030,03.05.01.016-6,Síndrome nefrítica crônica - anormalidade glomerular minor,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N030,03.05.01.018-2,Síndrome nefrítica crônica - anormalidade glomerular minor,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N030,04.18.01.001-3,Síndrome nefrítica crônica - anormalidade glomerular minor,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N030,04.18.01.002-1,Síndrome nefrítica crônica - anormalidade glomerular minor,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N030,04.18.01.003-0,Síndrome nefrítica crônica - anormalidade glomerular minor,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N030,04.18.01.004-8,Síndrome nefrítica crônica - anormalidade glomerular minor,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N030,04.18.01.008-0,Síndrome nefrítica crônica - anormalidade glomerular minor,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N030,04.18.02.001-9,Síndrome nefrítica crônica - anormalidade glomerular minor,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N030,04.18.02.002-7,Síndrome nefrítica crônica - anormalidade glomerular minor,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N031,03.05.01.002-6,Síndrome nefrítica crônica - lesões glomerulares focais e segmentares,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N031,03.05.01.010-7,Síndrome nefrítica crônica - lesões glomerulares focais e segmentares,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N031,03.05.01.011-5,Síndrome nefrítica crônica - lesões glomerulares focais e segmentares,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N031,03.05.01.016-6,Síndrome nefrítica crônica - lesões glomerulares focais e segmentares,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N031,03.05.01.018-2,Síndrome nefrítica crônica - lesões glomerulares focais e segmentares,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N031,04.18.01.001-3,Síndrome nefrítica crônica - lesões glomerulares focais e segmentares,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N031,04.18.01.002-1,Síndrome nefrítica crônica - lesões glomerulares focais e segmentares,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N031,04.18.01.003-0,Síndrome nefrítica crônica - lesões glomerulares focais e segmentares,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N031,04.18.01.004-8,Síndrome nefrítica crônica - lesões glomerulares focais e segmentares,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N031,04.18.01.008-0,Síndrome nefrítica crônica - lesões glomerulares focais e segmentares,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N031,04.18.02.001-9,Síndrome nefrítica crônica - lesões glomerulares focais e segmentares,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N031,04.18.02.002-7,Síndrome nefrítica crônica - lesões glomerulares focais e segmentares,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N032,03.05.01.002-6,Síndrome nefrítica crônica - glomerulonefrite membranosa difusa,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N032,03.05.01.010-7,Síndrome nefrítica crônica - glomerulonefrite membranosa difusa,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N032,03.05.01.011-5,Síndrome nefrítica crônica - glomerulonefrite membranosa difusa,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N032,03.05.01.016-6,Síndrome nefrítica crônica - glomerulonefrite membranosa difusa,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N032,03.05.01.018-2,Síndrome nefrítica crônica - glomerulonefrite membranosa difusa,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N032,04.18.01.001-3,Síndrome nefrítica crônica - glomerulonefrite membranosa difusa,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N032,04.18.01.002-1,Síndrome nefrítica crônica - glomerulonefrite membranosa difusa,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N032,04.18.01.003-0,Síndrome nefrítica crônica - glomerulonefrite membranosa difusa,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N032,04.18.01.004-8,Síndrome nefrítica crônica - glomerulonefrite membranosa difusa,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N032,04.18.01.008-0,Síndrome nefrítica crônica - glomerulonefrite membranosa difusa,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N032,04.18.02.001-9,Síndrome nefrítica crônica - glomerulonefrite membranosa difusa,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N032,04.18.02.002-7,Síndrome nefrítica crônica - glomerulonefrite membranosa difusa,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N033,03.05.01.002-6,Síndrome nefrítica crônica - glomerulonefrite proliferativa mesangial difusa,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N033,03.05.01.010-7,Síndrome nefrítica crônica - glomerulonefrite proliferativa mesangial difusa,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N033,03.05.01.011-5,Síndrome nefrítica crônica - glomerulonefrite proliferativa mesangial difusa,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N033,03.05.01.016-6,Síndrome nefrítica crônica - glomerulonefrite proliferativa mesangial difusa,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N033,03.05.01.018-2,Síndrome nefrítica crônica - glomerulonefrite proliferativa mesangial difusa,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N033,04.18.01.001-3,Síndrome nefrítica crônica - glomerulonefrite proliferativa mesangial difusa,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N033,04.18.01.002-1,Síndrome nefrítica crônica - glomerulonefrite proliferativa mesangial difusa,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N033,04.18.01.003-0,Síndrome nefrítica crônica - glomerulonefrite proliferativa mesangial difusa,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N033,04.18.01.004-8,Síndrome nefrítica crônica - glomerulonefrite proliferativa mesangial difusa,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N033,04.18.01.008-0,Síndrome nefrítica crônica - glomerulonefrite proliferativa mesangial difusa,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N033,04.18.02.001-9,Síndrome nefrítica crônica - glomerulonefrite proliferativa mesangial difusa,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N033,04.18.02.002-7,Síndrome nefrítica crônica - glomerulonefrite proliferativa mesangial difusa,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N034,03.05.01.002-6,Síndrome nefrítica crônica - glomerulonefrite proliferativa endocapilar difusa,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N034,03.05.01.010-7,Síndrome nefrítica crônica - glomerulonefrite proliferativa endocapilar difusa,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N034,03.05.01.011-5,Síndrome nefrítica crônica - glomerulonefrite proliferativa endocapilar difusa,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N034,03.05.01.016-6,Síndrome nefrítica crônica - glomerulonefrite proliferativa endocapilar difusa,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N034,03.05.01.018-2,Síndrome nefrítica crônica - glomerulonefrite proliferativa endocapilar difusa,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N034,04.18.01.001-3,Síndrome nefrítica crônica - glomerulonefrite proliferativa endocapilar difusa,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N034,04.18.01.002-1,Síndrome nefrítica crônica - glomerulonefrite proliferativa endocapilar difusa,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N034,04.18.01.003-0,Síndrome nefrítica crônica - glomerulonefrite proliferativa endocapilar difusa,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N034,04.18.01.004-8,Síndrome nefrítica crônica - glomerulonefrite proliferativa endocapilar difusa,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N034,04.18.01.008-0,Síndrome nefrítica crônica - glomerulonefrite proliferativa endocapilar difusa,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N034,04.18.02.001-9,Síndrome nefrítica crônica - glomerulonefrite proliferativa endocapilar difusa,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N034,04.18.02.002-7,Síndrome nefrítica crônica - glomerulonefrite proliferativa endocapilar difusa,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N035,03.05.01.002-6,Síndrome nefrítica crônica - glomerulonefrite mesangiocapilar difusa,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N035,03.05.01.010-7,Síndrome nefrítica crônica - glomerulonefrite mesangiocapilar difusa,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N035,03.05.01.011-5,Síndrome nefrítica crônica - glomerulonefrite mesangiocapilar difusa,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N035,03.05.01.016-6,Síndrome nefrítica crônica - glomerulonefrite mesangiocapilar difusa,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N035,03.05.01.018-2,Síndrome nefrítica crônica - glomerulonefrite mesangiocapilar difusa,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N035,04.18.01.001-3,Síndrome nefrítica crônica - glomerulonefrite mesangiocapilar difusa,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N035,04.18.01.002-1,Síndrome nefrítica crônica - glomerulonefrite mesangiocapilar difusa,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N035,04.18.01.003-0,Síndrome nefrítica crônica - glomerulonefrite mesangiocapilar difusa,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N035,04.18.01.004-8,Síndrome nefrítica crônica - glomerulonefrite mesangiocapilar difusa,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N035,04.18.01.008-0,Síndrome nefrítica crônica - glomerulonefrite mesangiocapilar difusa,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N035,04.18.02.001-9,Síndrome nefrítica crônica - glomerulonefrite mesangiocapilar difusa,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N035,04.18.02.002-7,Síndrome nefrítica crônica - glomerulonefrite mesangiocapilar difusa,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N036,03.05.01.002-6,Síndrome nefrítica crônica - doença de depósito denso,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N036,03.05.01.010-7,Síndrome nefrítica crônica - doença de depósito denso,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N036,03.05.01.011-5,Síndrome nefrítica crônica - doença de depósito denso,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N036,03.05.01.016-6,Síndrome nefrítica crônica - doença de depósito denso,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N036,03.05.01.018-2,Síndrome nefrítica crônica - doença de depósito denso,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N036,04.18.01.001-3,Síndrome nefrítica crônica - doença de depósito denso,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N036,04.18.01.002-1,Síndrome nefrítica crônica - doença de depósito denso,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N036,04.18.01.003-0,Síndrome nefrítica crônica - doença de depósito denso,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N036,04.18.01.004-8,Síndrome nefrítica crônica - doença de depósito denso,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N036,04.18.01.008-0,Síndrome nefrítica crônica - doença de depósito denso,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N036,04.18.02.001-9,Síndrome nefrítica crônica - doença de depósito denso,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N036,04.18.02.002-7,Síndrome nefrítica crônica - doença de depósito denso,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N037,03.05.01.002-6,Síndrome nefrítica crônica - glomerulonefrite difusa em crescente,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N037,03.05.01.010-7,Síndrome nefrítica crônica - glomerulonefrite difusa em crescente,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N037,03.05.01.011-5,Síndrome nefrítica crônica - glomerulonefrite difusa em crescente,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N037,03.05.01.016-6,Síndrome nefrítica crônica - glomerulonefrite difusa em crescente,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N037,03.05.01.018-2,Síndrome nefrítica crônica - glomerulonefrite difusa em crescente,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N037,04.18.01.001-3,Síndrome nefrítica crônica - glomerulonefrite difusa em crescente,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N037,04.18.01.002-1,Síndrome nefrítica crônica - glomerulonefrite difusa em crescente,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N037,04.18.01.003-0,Síndrome nefrítica crônica - glomerulonefrite difusa em crescente,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N037,04.18.01.004-8,Síndrome nefrítica crônica - glomerulonefrite difusa em crescente,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N037,04.18.01.008-0,Síndrome nefrítica crônica - glomerulonefrite difusa em crescente,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N037,04.18.02.001-9,Síndrome nefrítica crônica - glomerulonefrite difusa em crescente,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N037,04.18.02.002-7,Síndrome nefrítica crônica - glomerulonefrite difusa em crescente,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N038,03.05.01.002-6,Síndrome nefrítica crônica - outras,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N038,03.05.01.010-7,Síndrome nefrítica crônica - outras,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N038,03.05.01.011-5,Síndrome nefrítica crônica - outras,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N038,03.05.01.016-6,Síndrome nefrítica crônica - outras,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N038,03.05.01.018-2,Síndrome nefrítica crônica - outras,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N038,04.18.01.001-3,Síndrome nefrítica crônica - outras,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N038,04.18.01.002-1,Síndrome nefrítica crônica - outras,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N038,04.18.01.003-0,Síndrome nefrítica crônica - outras,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N038,04.18.01.004-8,Síndrome nefrítica crônica - outras,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N038,04.18.01.008-0,Síndrome nefrítica crônica - outras,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N038,04.18.02.001-9,Síndrome nefrítica crônica - outras,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N038,04.18.02.002-7,Síndrome nefrítica crônica - outras,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N039,03.05.01.002-6,Síndrome nefrítica crônica - não especificada,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N039,03.05.01.010-7,Síndrome nefrítica crônica - não especificada,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N039,03.05.01.011-5,Síndrome nefrítica crônica - não especificada,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N039,03.05.01.016-6,Síndrome nefrítica crônica - não especificada,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N039,03.05.01.018-2,Síndrome nefrítica crônica - não especificada,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N039,04.18.01.001-3,Síndrome nefrítica crônica - não especificada,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N039,04.18.01.002-1,Síndrome nefrítica crônica - não especificada,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N039,04.18.01.003-0,Síndrome nefrítica crônica - não especificada,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N039,04.18.01.004-8,Síndrome nefrítica crônica - não especificada,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N039,04.18.01.008-0,Síndrome nefrítica crônica - não especificada,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N039,04.18.02.001-9,Síndrome nefrítica crônica - não especificada,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N039,04.18.02.002-7,Síndrome nefrítica crônica - não especificada,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N188,03.05.01.002-6,Outra insuficiência renal crônica,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N188,03.05.01.010-7,Outra insuficiência renal crônica,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N188,03.05.01.011-5,Outra insuficiência renal crônica,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N188,03.05.01.016-6,Outra insuficiência renal crônica,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N188,03.05.01.018-2,Outra insuficiência renal crônica,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N188,04.18.01.001-3,Outra insuficiência renal crônica,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N188,04.18.01.002-1,Outra insuficiência renal crônica,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N188,04.18.01.003-0,Outra insuficiência renal crônica,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N188,04.18.01.004-8,Outra insuficiência renal crônica,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N188,04.18.01.008-0,Outra insuficiência renal crônica,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N188,04.18.02.001-9,Outra insuficiência renal crônica,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N188,04.18.02.002-7,Outra insuficiência renal crônica,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N189,03.05.01.002-6,Insuficiência renal crônica não especificada,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N189,03.05.01.010-7,Insuficiência renal crônica não especificada,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N189,03.05.01.011-5,Insuficiência renal crônica não especificada,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N189,03.05.01.016-6,Insuficiência renal crônica não especificada,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N189,03.05.01.018-2,Insuficiência renal crônica não especificada,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N189,04.18.01.001-3,Insuficiência renal crônica não especificada,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N189,04.18.01.002-1,Insuficiência renal crônica não especificada,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N189,04.18.01.003-0,Insuficiência renal crônica não especificada,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N189,04.18.01.004-8,Insuficiência renal crônica não especificada,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N189,04.18.01.008-0,Insuficiência renal crônica não especificada,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N189,04.18.02.001-9,Insuficiência renal crônica não especificada,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,N189,04.18.02.002-7,Insuficiência renal crônica não especificada,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,O100,03.10.01.004-7,"Hipertensão essencial pré-existente complicando a gravidez, o parto e o puerpério",1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,O101,03.10.01.004-7,"Doença cardíaca hipertensiva pré-existente complicando a gravidez, o parto e o puerpério",1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,O102,03.10.01.004-7,"Doença renal hipertensiva pré-existente complicando a gravidez, o parto e o puerpério",1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,O103,03.10.01.004-7,"Doença cardíaca e renal hipertensiva pré-existente complicando a gravidez, o parto e o puerpério",1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,O104,03.10.01.004-7,"Hipertensão secundária pré-existente complicando a gravidez, o parto e o puerpério",1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,O109,03.10.01.004-7,"Hipertensão pré-existente não especificada, complicando a gravidez, o parto e o puerpério",1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,O11 ,03.10.01.004-7,O11 - DISTURBIO HIPERTENSIVO PRE-EXISTENTE COM PROTEINURIA SUPERPOSTA,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,O140,03.10.01.004-7,Pré-eclâmpsia moderada,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,O16 ,03.10.01.004-7,O16 - HIPERTENSAO MATERNA NAO ESPECIFICADA,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,O220,03.10.01.004-7,Varizes dos membros inferiores na gravidez,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,O221,03.10.01.004-7,Varizes genitais na gravidez,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,O222,03.10.01.004-7,Tromboflebite superficial na gravidez,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,O223,03.10.01.004-7,Flebotrombose profunda na gravidez,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,O224,03.10.01.004-7,Hemorróidas na gravidez,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,O225,03.10.01.004-7,Trombose venosa cerebral na gravidez,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,O228,03.10.01.004-7,Outras complicações venosas na gravidez,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,O229,03.10.01.004-7,"Complicações venosas na gravidez, não especificadas",1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,O230,03.10.01.004-7,Infecções do rim na gravidez,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,O231,03.10.01.004-7,Infecções da bexiga na gravidez,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,O232,03.10.01.004-7,Infecções da uretra na gravidez,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,O233,03.10.01.004-7,Infecções de outras partes do trato urinário na gravidez,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,O234,03.10.01.004-7,Infecção não especificada do trato urinário na gravidez,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,O235,03.10.01.004-7,Infecções do trato genital na gravidez,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,O239,03.10.01.004-7,Outras infecções e as não especificadas do trato urinário na gravidez,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,O240,03.10.01.004-7,"Diabetes Mellitus pré-existente, insulino-dependente",1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,O241,03.10.01.004-7,"Diabetes Mellitus pré-existente, não-insulino-dependente",1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,O242,03.10.01.004-7,"Diabetes Mellitus pré-existente, relacionado com a desnutrição",1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,O243,03.10.01.004-7,"Diabetes Mellitus pré-existente, não especificado",1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,O244,03.10.01.004-7,Diabetes Mellitus que surge durante a gravidez,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,O249,03.10.01.004-7,"Diabetes Mellitus na gravidez, não especificado",1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,O265,03.10.01.004-7,Síndrome da hipotensão materna,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,Q613,03.05.01.002-6,Rim policístico não especificado,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,Q613,03.05.01.010-7,Rim policístico não especificado,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,Q613,03.05.01.011-5,Rim policístico não especificado,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,Q613,03.05.01.016-6,Rim policístico não especificado,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,Q613,04.18.01.001-3,Rim policístico não especificado,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,Q613,04.18.01.002-1,Rim policístico não especificado,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,Q613,04.18.01.003-0,Rim policístico não especificado,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,Q613,04.18.01.004-8,Rim policístico não especificado,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,Q613,04.18.01.008-0,Rim policístico não especificado,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,Q613,04.18.02.001-9,Rim policístico não especificado,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,Q613,04.18.02.002-7,Rim policístico não especificado,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,T860,05.05.01.001-1,Rejeição a transplante de medula óssea,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,T860,05.05.01.002-0,Rejeição a transplante de medula óssea,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,T860,05.05.01.007-0,Rejeição a transplante de medula óssea,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,T861,03.05.01.002-6,Falência ou rejeição de transplante de rim,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,T861,03.05.01.010-7,Falência ou rejeição de transplante de rim,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,T861,03.05.01.011-5,Falência ou rejeição de transplante de rim,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,T861,03.05.01.016-6,Falência ou rejeição de transplante de rim,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,T861,03.05.01.018-2,Falência ou rejeição de transplante de rim,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,T861,04.18.01.001-3,Falência ou rejeição de transplante de rim,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,T861,04.18.01.002-1,Falência ou rejeição de transplante de rim,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,T861,04.18.01.003-0,Falência ou rejeição de transplante de rim,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,T861,04.18.01.004-8,Falência ou rejeição de transplante de rim,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,T861,04.18.01.008-0,Falência ou rejeição de transplante de rim,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,T861,04.18.02.001-9,Falência ou rejeição de transplante de rim,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,T861,04.18.02.002-7,Falência ou rejeição de transplante de rim,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,T861,05.05.02.009-2,Falência ou rejeição de transplante de rim,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,T861,05.05.02.010-6,Falência ou rejeição de transplante de rim,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,T862,05.05.02.004-1,Falência ou rejeição de transplante de coração,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,T863,05.05.02.004-1,Falência ou rejeição de transplante duplo de coração e pulmão,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,T863,05.05.02.008-4,Falência ou rejeição de transplante duplo de coração e pulmão,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,T864,05.05.02.005-0,Falência ou rejeição de transplante de fígado,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,T868,05.05.01.003-8,Outra insuficiência ou rejeição de outros órgãos ou tecidos transplantados,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,T868,05.05.01.004-6,Outra insuficiência ou rejeição de outros órgãos ou tecidos transplantados,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,T868,05.05.01.005-4,Outra insuficiência ou rejeição de outros órgãos ou tecidos transplantados,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,T868,05.05.01.006-2,Outra insuficiência ou rejeição de outros órgãos ou tecidos transplantados,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,T868,05.05.01.009-7,Outra insuficiência ou rejeição de outros órgãos ou tecidos transplantados,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,T868,05.05.01.012-7,Outra insuficiência ou rejeição de outros órgãos ou tecidos transplantados,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,T868,05.05.02.007-6,Outra insuficiência ou rejeição de outros órgãos ou tecidos transplantados,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,T868,05.05.02.008-4,Outra insuficiência ou rejeição de outros órgãos ou tecidos transplantados,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,T868,05.05.02.011-4,Outra insuficiência ou rejeição de outros órgãos ou tecidos transplantados,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,Y434,05.06.02.004-5,Efeitos adversos de agentes imunossupressores,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,Y830,05.06.02.001-0,"Reação anormal em paciente/compl. tardia, caus. por interv. cir. c/transp. de todo o órgão",1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,Y830,05.06.02.002-9,"Reação anormal em paciente/compl. tardia, caus. por interv. cir. c/transp. de todo o órgão",1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,Y830,05.06.02.003-7,"Reação anormal em paciente/compl. tardia, caus. por interv. cir. c/transp. de todo o órgão",1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,Y830,05.06.02.004-5,"Reação anormal em paciente/compl. tardia, caus. por interv. cir. c/transp. de todo o órgão",1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,Z940,05.06.02.004-5,Rim transplantado,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,Z941,05.06.02.004-5,Coração transplantado,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,Z942,05.06.02.004-5,Pulmão transplantado,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,Z943,05.06.02.004-5,Coração e pulmões transplantados,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,Z944,05.06.02.004-5,Fígado transplantado,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,Z947,05.06.02.004-5,Córnea transplantada,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,Z948,05.06.02.004-5,Outros órgãos e tecidos transplantados,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,Z948,05.06.02.001-0,Outros órgãos e tecidos transplantados,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,Z948,05.06.02.002-9,Outros órgãos e tecidos transplantados,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46
+,Z948,05.06.02.003-7,Outros órgãos e tecidos transplantados,1,1,2023-08-16 18:53:46,2023-08-16 18:53:46

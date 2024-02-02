@@ -1,0 +1,20 @@
+"id","classificacao","discriminacao","observacao","user_id","created_at","updated_at"
+"1","VERMELHO","Comprometimento das vias áereas","Tempo de espera é de 0 minutos","1","2023-09-13 17:53:00","2023-09-13 17:53:00"
+"2","VERMELHO","Respiração Inadequada","Tempo de espera é de 0 minutos","1","2023-09-13 17:53:00","2023-09-13 17:53:00"
+"3","VERMELHO","Hemorragia Exanguinantes","Tempo de espera é de 0 minutos","1","2023-09-13 17:53:00","2023-09-13 17:53:00"
+"4","VERMELHO","Choque","Tempo de espera é de 0 minutos","1","2023-09-13 17:53:00","2023-09-13 17:53:00"
+"5","VERMELHO","Convulsionando","Tempo de espera é de 0 minutos","1","2023-09-13 17:53:00","2023-09-13 17:53:00"
+"6","VERMELHO","Criança Irresponsiva","Tempo de espera é de 0 minutos","1","2023-09-13 17:53:00","2023-09-13 17:53:00"
+"7","LARANJA","Dor Intensa","Tempo de espera é de 10 minutos","1","2023-09-13 17:53:00","2023-09-13 17:53:00"
+"8","LARANJA","Hemorragia Maior Incontrolável","Tempo de espera é de 10 minutos","1","2023-09-13 17:53:00","2023-09-13 17:53:00"
+"9","LARANJA","Alteração da Consciência","Tempo de espera é de 10 minutos","1","2023-09-13 17:53:00","2023-09-13 17:53:00"
+"10","LARANJA","Criança Fébril","Tempo de espera é de 10 minutos","1","2023-09-13 17:53:00","2023-09-13 17:53:00"
+"11","LARANJA","Esfriamento","Tempo de espera é de 10 minutos","1",NULL,NULL
+"12","LARANJA","Dor Moderada","Tempo de espera é de 10 minutos","1",NULL,NULL
+"13","AMARELO","hemorragia menor incontrolável","Tempo de espera é de 60 minutos","1",NULL,NULL
+"14","AMARELO","Historico de Inconsciência","Tempo de espera é de 60 minutos","1",NULL,NULL
+"15","AMARELO","Adulto Fébril","Tempo de espera é de 60 minutos","1",NULL,NULL
+"16","VERDE","Dor Leve Recente","Tempo de espera é de 120 minutos","1",NULL,NULL
+"17","VERDE","Febre Baixa","Tempo de espera é de 120 minutos","1",NULL,NULL
+"18","VERDE","Problema Recente","Tempo de espera é de 120 minutos","1",NULL,NULL
+"19","AZUL","OUTROS","Tempo de espera é de 240 minutos","1",NULL,NULL
